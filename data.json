@@ -1,0 +1,120 @@
+{
+    "sensors": [
+      {
+        "id": 1,
+        "temperature": 1,
+        "humidity": 1,
+        "timestamp": 385308
+      },
+
+      {
+        "hum": 60,
+        "tem": 24,
+        "timestamp": 870180,
+        "id": 2
+      },
+      {
+        "hum": 62,
+        "tem": 24,
+        "timestamp": 873213,
+        "id": 4
+      },
+      {
+        "hum": 60,
+        "tem": 24,
+        "timestamp": 873361,
+        "id": 5
+      },
+      {
+        "hum": 62,
+        "tem": 25,
+        "timestamp": 763482,
+        "id": 6
+      },
+
+      {
+        "hum": 65,
+        "tem": 25,
+        "timestamp": 29148,
+        "id": 30
+      },
+      {
+        "hum": 62,
+        "tem": 26,
+        "timestamp": 20696,
+        "id": 31
+      },
+      {
+        "hum": 61,
+        "tem": 24,
+        "timestamp": 40413,
+        "id": 32
+      },
+      {
+        "hum": 64,
+        "tem": 22,
+        "timestamp": 50542,
+        "id": 33
+      },
+      {
+        "hum": 60,
+        "tem": 24,
+        "timestamp": 60643,
+        "id": 34
+      },
+      {
+        "hum": 62,
+        "tem": 22,
+        "timestamp": 70725,
+        "id": 35
+      },
+      {
+        "hum": 63,
+        "tem": 23,
+        "timestamp": 80830,
+        "id": 36
+      },
+      {
+        "hum": 62,
+        "tem": 23,
+        "timestamp": 90903,
+        "id": 37
+      },
+      {
+        "hum": 63,
+        "tem": 23,
+        "timestamp": 101010,
+        "id": 38
+      },
+      {
+        "hum": 61,
+        "tem": 23,
+        "timestamp": 111097,
+        "id": 39
+      },
+      {
+        "hum": 61,
+        "tem": 23,
+        "timestamp": 121175,
+        "id": 40
+      },
+      {
+        "hum": 65,
+        "tem": 23,
+        "timestamp": 489363,
+        "id": 96
+      },
+      {
+        "hum": 61,
+        "tem": 23,
+        "timestamp": 454893,
+        "id": 97
+      },
+      {
+        "hum": 61,
+        "tem": 23,
+        "timestamp": 464962,
+        "id": 98
+      }
+    ]
+  }
